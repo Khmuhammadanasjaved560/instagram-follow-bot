@@ -1,6 +1,6 @@
 # Enter username and password of instagram account: 
-username = ''
-password = ''
+username = 'ILoveYouZanaibJan'
+password = 'uY&'S'e6%9fhkvE'
 
 # Delay time between likes (seconds):
 delay = 10
